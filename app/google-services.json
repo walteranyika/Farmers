@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421926596133",
+    "firebase_url": "https://farmers-cbfc6.firebaseio.com",
+    "project_id": "farmers-cbfc6",
+    "storage_bucket": "farmers-cbfc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421926596133:android:8cff997295fd5693",
+        "android_client_info": {
+          "package_name": "io.farmers.farmers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421926596133-kbqmijim7h7ru5fh845ik7kjpv5a4h31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXeQ679X2-PpTyju5olbliNsyR-E6i7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
